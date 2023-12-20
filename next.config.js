@@ -17,7 +17,7 @@ const nextConfig = {
   publicRuntimeConfig: {
     apiUrl: process.env.NODE_ENV === 'development'
         ? 'http://localhost:27888/api' // development api
-        : 'http://play.madgames.ir:27888/api' // production api
+        : 'http://localhost:27888/api' // production api
 }
 };
 
