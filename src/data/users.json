@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1693634047205",
+    "username": "CodedPro",
+    "password": "Coded1234",
+    "firstName": "Amir",
+    "lastName": "Nouri",
+    "role": "Programmer",
+    "access": "Admin"
+  },
+  {
+    "id": "1694595204510",
+    "username": "mohsen",
+    "password": "123456",
+    "firstName": "Mohsen",
+    "lastName": "baba nejad",
+    "role": "battery",
+    "access": "admin"
+  },
+  {
+    "id": "1694595204512",
+    "username": "Pedram",
+    "password": "Pedram1234",
+    "firstName": "Pedram",
+    "lastName": "Enayati",
+    "role": "TCH",
+    "access": "admin"
+  }
+]
