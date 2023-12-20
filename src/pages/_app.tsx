@@ -45,3 +45,6 @@ function MyApp({ Component, pageProps }: AppProps) {
 }
 
 export default MyApp;
+
+
+//Coded By CodedPro
